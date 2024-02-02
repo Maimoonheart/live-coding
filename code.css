@@ -1,4 +1,11 @@
 .bb{
     background-image: url(image/image\ 12.png);
     height: 75vh;
+    opacity: 3.9;
+    margin-left: ;
+}
+
+.bu{
+background-color: black;
+color: white;
 }

@@ -8,4 +8,12 @@
 .bu{
 background-color: black;
 color: white;
+height: 70vh;
+}
+
+.mn{
+ margin-top: 5px; 
+ background-color: black;  
+ color: white;
+height: 70vh;
 }
